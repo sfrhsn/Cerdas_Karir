@@ -22,9 +22,6 @@ DB_DATABASE=cerdas_karir
 DB_USERNAME=root
 DB_PASSWORD=
 
-# DB_CONNECTION=sqlite
-# (kosongkan DB_DATABASE, DB_HOST, dll)
-
 # Groq AI (opsional, untuk fitur generate artikel & analisis karir)
 GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxx
 
