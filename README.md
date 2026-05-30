@@ -1,6 +1,6 @@
 # Cara Menjalankan
-1. Clone & Install Dependencies
-bashgit clone <url-repo> cerdas-karir
+1. Clone & Install Dependencies  . 
+bashgit clone <url-repo> cerdas-karir  .
 cd cerdas-karir
 
 composer install
